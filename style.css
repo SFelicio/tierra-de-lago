@@ -48,12 +48,6 @@ header .container{
   left: 5%;
   box-shadow: 2px 3px 5px #3c3a3a;
 }
-#branding a{
-  font-size: 35px;
-  color: #fff;
-  text-decoration: none;
-  font-family: 'Dancing Script';
-}
 .nav{
   float: right;
   padding-right: 5%;
