@@ -1,5 +1,5 @@
 body{
-  font-family: 'Goudy Old Style';
+  font-family: 'Times New Roman';
   font-size: 18px;
   line-height: 1.5;
   padding: 0;
@@ -219,7 +219,7 @@ h2{
 }
 #rooms h2{
   font-size: 56px;
-  font-family:'Goudy Old Style';
+  font-family:'Times New Roman';
   text-transform: uppercase; 
 }
 #rooms hr{
@@ -297,7 +297,7 @@ h2{
 }
 #amenities h2{
   font-size: 56px;
-  font-family:'Goudy Old Style';
+  font-family:'Times New Roman';
   text-transform: uppercase; 
 }
 #amenities hr{
@@ -395,7 +395,7 @@ h2{
   top: 5%;
   left: 36%;
   font-size: 48px;
-  font-family: 'Goudy Old Style';
+  font-family: 'Times New Roman';
   text-transform: uppercase;
 }
 #contact hr{
