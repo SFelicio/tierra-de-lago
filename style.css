@@ -268,7 +268,7 @@ h2{
   margin-top: 8%;  
   width: 100%;
   min-height: 400px;
-  background-image: url(../img/parallax1.jpg);
+  background-image: url("parallax1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -345,7 +345,7 @@ h2{
   margin-top: 8%;  
   width: 100%;
   min-height: 400px;
-  background-image: url(../img/fullview.jpg);
+  background-image: url("fullview.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
